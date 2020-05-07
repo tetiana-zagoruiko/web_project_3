@@ -11,4 +11,4 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Link To The Project**
 
-* [Link to the project on GitHub Pages](https://tetiana-zagoruiko.github.io/web_project_3/index.html)
+[Link to the project on GitHub Pages](https://tetiana-zagoruiko.github.io/web_project_3/index.html)
