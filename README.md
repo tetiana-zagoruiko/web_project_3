@@ -13,6 +13,6 @@ Stylesheets and images are located in separate folders and organized into blocks
 **Description of technologies and techniques used**
 CSS: pseudo-elements, pseudo-classes, flexbox, grid layout. 
 
-**Project on GitHub Pages **
+**Project on GitHub Pages**
 
 [Link to the project on GitHub Pages](https://tetiana-zagoruiko.github.io/web_project_3/index.html)
